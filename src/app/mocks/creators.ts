@@ -1,45 +1,45 @@
 export default [
 
    { 
-        name: "Marlou Bilas", 
+        name: "Raul", 
         role: "CEO", 
-        description: "Designer | Artist", 
+        description: "Guminasai", 
         facebook: "https://www.facebook.com/marlou.bilas", 
         twitter: "", 
         instagram: "",
-        picture : "https://admgyustorage.blob.core.windows.net/styroartscraft/marlou.jpg",
+        picture : "https://admgyustorage.blob.core.windows.net/images/jayvee.jpg",
     },
 
    { 
-       name: "Diego Bilas", 
-       role: "MASTER CRAFTER", 
-       description: "Crafter | Paintor", 
+       name: "Logan", 
+       role: "CTO", 
+       description: "Touch Me Gently", 
        facebook: "https://www.facebook.com/diego.bilas.3", 
        twitter: "", 
        instagram: "",
-       picture: "https://admgyustorage.blob.core.windows.net/styroartscraft/diego.PNG"
+       picture: "https://admgyustorage.blob.core.windows.net/images/karl.PNG"
     }
     ,
 
    { 
-       name: "Dielu Bilas", 
-       role: "Information Technology", 
-       description: "Sales | Marketeer", 
+       name: "King", 
+       role: "I N A", 
+       description: "InfoSec Master", 
        facebook: "https://www.facebook.com/dielu.bilas.7", 
        twitter: "", 
        instagram: "",
-       picture: "https://admgyustorage.blob.core.windows.net/styroartscraft/dielu.jpg"
+       picture: "https://admgyustorage.blob.core.windows.net/images/kingking.PNG"
     }
 
     ,
 
     { 
-        name: "Peter Bilas", 
-        role: "Apprentice", 
-        description: "Sales | Marketeer", 
+        name: "Aya", 
+        role: "Designer", 
+        description: "UI | UX", 
         facebook: "https://www.facebook.com/profile.php?id=100068467046307", 
         twitter: "", 
         instagram: "",
-        picture: "https://admgyustorage.blob.core.windows.net/styroartscraft/pipoy.jpg"
+        picture: "https://admgyustorage.blob.core.windows.net/images/aya.jpg"
      }
 ]
